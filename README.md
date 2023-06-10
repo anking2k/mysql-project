@@ -14,4 +14,4 @@ Did you choose to use an ORM or raw SQL? Why?  Raw SQL - small database design m
 
 What future improvements are in store, if any?  Probably building additional tables for various features, experimenting with populating it with dummy data, and creating/sharing queries that could be useful to clients/consumers of the database
 
-![project](https://github.com/anking2k/mysql-project/assets/82107079/8c75d7b9-71d7-4038-8887-e31bfb607cfa)
+![project](https://github.com/anking2k/mysql-project/assets/82107079/d621a7d8-1e3c-4d39-b739-c898752fcb42)
