@@ -1,0 +1,12 @@
+INSERT INTO customer (id, f_name, l_name, address, email)
+VALUES 
+(1, 'John', 'Doe', '123 Main St', 'john.doe@example.com'),
+(2, 'Jane', 'Smith', '456 Maple St', 'jane.smith@example.com'),
+(3, 'Bob', 'Johnson', '789 Oak St', 'bob.johnson@example.com'),
+(4, 'Alice', 'Williams', '101 Pine St', 'alice.williams@example.com'),
+(5, 'Charlie', 'Brown', '202 Elm St', 'charlie.brown@example.com'),
+(6, 'Dave', 'Davis', '303 Ash St', 'dave.davis@example.com'),
+(7, 'Eve', 'Martin', '404 Fir St', 'eve.martin@example.com'),
+(8, 'Frank', 'Garcia', '505 Cedar St', 'frank.garcia@example.com'),
+(9, 'Grace', 'Rodriguez', '606 Birch St', 'grace.rodriguez@example.com'),
+(10, 'Hank', 'Wilson', '707 Cherry St', 'hank.wilson@example.com');
