@@ -13,3 +13,5 @@ How did the project's design evolve over time? I began by creating the database 
 Did you choose to use an ORM or raw SQL? Why?  Raw SQL - small database design made it an ideal choice along with search optimization (less translations/conversions)
 
 What future improvements are in store, if any?  Probably building additional tables for various features, experimenting with populating it with dummy data, and creating/sharing queries that could be useful to clients/consumers of the database
+
+![project](https://github.com/anking2k/mysql-project/assets/82107079/8c75d7b9-71d7-4038-8887-e31bfb607cfa)
